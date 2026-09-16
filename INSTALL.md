@@ -130,6 +130,12 @@ markdownlint profile\README.md README.md
 
 Para visualizar a renderização do perfil antes de enviar o commit, você pode usar extensões do Visual Studio Code (como *Markdown Preview Enhanced*) ou testar diretamente através de um branch pessoal com `gh pr create`.
 
+### 5.5. 🛡️ Homologação sob Windows 10
+
+A edição, validação e envio de contribuições pelo repositório público foram **homologadas sob Microsoft Windows 10**:
+1. **Linter e Formatação:** Total compatibilidade com utilitários de linting sob Node.js/npm no PowerShell do Windows 10.
+2. **Normalização de Arquivos:** Preservação de codificação UTF-8 sem BOM e padronização de quebras de linha em todos os documentos públicos.
+
 ---
 
 ## 🚀 6. Fluxo de Envio de Contribuições (Git Workflow)
