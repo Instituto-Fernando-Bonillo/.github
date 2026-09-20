@@ -23,54 +23,6 @@ Fundado em **26 de abril de 2017**, o IFB nasceu para perpetuar o legado do patr
 
 ---
 
-## 👥 Conselho Supremo de 41 Orientadores e Governança
-
-O IFB integra a maior banca multidisciplinar de inteligência coletiva e governança do Terceiro Setor, cujas diretrizes fundamentam todas as pesquisas, deliberações executivas, pareceres técnicos e arquiteturas de software:
-
-1. **Prof. Dr. Fernando Afonso Bonillo Fernandes (1956–2014) (@bonillo):** Patrono Espiritual e Mestre Científico. Rigor ecológico empírico de campo, matas ciliares, conservação de primatas e mastofauna, limnologia e formação de Guardiões da Natureza sob a filosofia Ubuntu.
-2. **Dr. Takashi Yamauchi (@yamauchi):** Decano do Terceiro Setor no Brasil. Blindagem estatutária, conformidade MROSC (Lei 13.019/14), Balanço Socioambiental (NBC T 15), Certificação RSA e sustentabilidade fiscal via Lucro Real (2%).
-3. **Prof. Dr. Kongjian Yu (1963–2025) (@yu):** Cidades-Esponja (*Sponge Cities*), "A Arte da Sobrevivência", parques fluviais alagáveis, várzeas vivas e soluções baseadas na natureza (NbS).
-4. **Prof. Dr. Antônio Lopes de Sá (1927–2010) (@lopes-de-sa):** Doutrinador contábil, Neopatrimonialismo, escrituração ITG 2002 (R1), imunidade tributária e conformidade com a Reforma Tributária (EC nº 132/2023 - CBS/IBS).
-5. **Chico Mendes (1944–1988) & ICMBio/IBAMA (@chicomendes):** Justiça socioambiental, Reservas Extrativistas (Resex), SNUC (Lei 9.985/00), poder de polícia e fiscalização ambiental (Dec. 6.514/08) e Código Florestal.
-6. **Roberto Burle Marx (1909–1994) (@burlemarx):** Patrono do paisagismo tropical moderno. Flora nativa neotropical como escultura viva e arborização urbana (ABNT NBR 16246).
-7. **Ailton Krenak (@krenak):** Saberes bioculturais, o rio como entidade viva sujeito de direitos (*Watu* e Rio Sapucaí), futuro ancestral e pedagogia do pertencimento.
-8. **Carlos Nobre (@carlosnobre):** Climatologia, resiliência hídrica, bioeconomia tropical de floresta em pé e prevenção de *tipping points*.
-9. **Gisele Bündchen (@gisele):** Mobilização pública socioambiental, embaixada do PNUMA, voluntariado ativo (Lei 9.608/98) e proteção de nascentes.
-10. **Leonardo DiCaprio (@dicaprio):** Re:wilding, conservação da biodiversidade, suporte à Brigada 035 e atração de fundos socioambientais.
-11. **Marina Silva (@marinasilva):** Políticas públicas ambientais, governança climática multilateral e editais de Estado (FNMA / Fundo Clima).
-12. **Dra. Jane Goodall (@janegoodall):** Etologia, conservação empática da fauna silvestre no Projeto Bicho do Mato e programa Roots & Shoots.
-13. **Paul Hawken (@paulhawken):** Economia regenerativa, Project Drawdown, compostagem termofílica, biochar e fixação de carbono no solo.
-14. **Sebastião Salgado & Lélia Deluiz Wanick Salgado (@sebastiaosalgado):** Restauração florestal em larga escala de Mata Atlântica (Instituto Terra), governança de RPPNs, Programa Olhos d'Água e fotodocumentarismo.
-15. **Greta Thunberg (@greta):** Urgência climática máxima, ciência do IPCC, justiça intergeracional e combate rigoroso ao greenwashing.
-16. **Inger Andersen (@ingerandersen):** Governança multilateral da ONU (PNUMA/UNEP), Tripla Crise Planetária e Década da Restauração da ONU (2021–2030).
-17. **Diego Toledo Fernandes (@diego):** Diretor-Presidente do IFB, liderança executiva de campo (vinculada à submissão das decisões ao Conselho), brigadista de incêndios florestais, socorrista APH, guardião de sementes e expedicionário.
-18. **Assessoria Jurídica e Compliance (Dr. Fúlvio Faria & Núcleo FOCCA) (@juridico):** Ações Civis Públicas (Lei 7.347/85), Notícias de Fato ao MP, compliance MROSC, LGPD e termos contratuais.
-19. **Itaymberê Guimarães (ISNI-26080506082) (@suporte / @itaymbere):** CTO do IFB, infraestrutura de redes Carrier Grade, IPv6, pfSense, soberania digital, Linguagem Simples no ecossistema jurídico, pioneiro da **Permameliponicultura** (caixas Perone-INPA sem plásticos, inércia térmica passiva de 3,5 a 5,0 cm e autonomia trófica), telemetria IoT de colmeias (ESP32/Abelha.io) e perícia forense de polinizadores contra agrotóxicos (ISO 27037).
-20. **Dra. Ana Maria Primavesi (1920–2020) (@primavesi):** Manejo ecológico do solo vivo, Teoria da Trofobiose, plantas bioindicadoras e mulching permanente.
-21. **Ernst Götsch (@gotsch):** Agricultura Sintrópica, dinâmica de sucessão natural, estratificação florestal e a arte de "plantar água".
-22. **Bill Mollison & David Holmgren (@permacultura):** Permacultura, zoneamento concêntrico Zonas 0 a 5, valas de infiltração (*swales*) e éticas do cuidado da Terra.
-23. **Dra. Vandana Shiva (@vandanashiva):** Soberania das sementes crioulas (*Bija Swaraj*), bancos comunitários de sementes e combate à biopirataria.
-24. **Kate Raworth (@kateraworth):** Economia Donut: equilíbrio dinâmico entre o teto ecológico planetário e o piso social.
-25. **Prof. Dr. Miguel Altieri (@altieri):** Agroecologia científica, policultivos e biodiversidade funcional para resiliência a extremos climáticos.
-26. **Fritjof Capra (@capra):** Pensamento sistêmico, redes vivas, propriedades emergentes e alfabetização ecológica (*Ecoliteracy*).
-27. **Janine Benyus (@benyus):** Biomimética, a natureza como modelo, medida e mentora, e os *Life's Principles*.
-28. **Dra. Robin Wall Kimmerer (@kimmerer):** Conhecimentos Ecológicos Tradicionais (TEK), botânica ocidental, Colheita Honrosa e economia da dádiva.
-29. **Paul Stamets (@stamets):** Micorrestauração, micofiltragem biológica de efluentes e biorremediação fúngica de solos degradados.
-30. **Davi Kopenawa (@kopenawa):** Cosmovisão ancestral Yanomami, proteção de *Urihi A*, espíritos *xapiri* e denúncia da contaminação ambiental.
-31. **Prof. Dr. Luiz Carlos Pinheiro Machado (@pinheiromachado):** Pastoreio Racional Voisin (PRV), biocenose do solo e silvipastoreio.
-32. **Dr. Daniel Christian Wahl (@danielwahl):** Design de culturas regenerativas, perguntas vivas (*living questions*) e potencial do lugar.
-33. **Oscar Perone (@perone):** Permapicultura natural do "não-fazer", colmeias gigantes com Grade Perone e termodinâmica do ninho.
-34. **Dra. Suzanne Simard (@simard):** Árvores-Mãe (*Mother Trees*), redes micorrízicas subterrâneas (*Wood Wide Web*) e silvicultura de retenção florestal.
-35. **Prof. Dr. Michael Braungart & William McDonough (@c2c):** Cradle to Cradle (C2C), eliminação conceitual do lixo (*Waste Equals Food*) e upcycling contínuo.
-36. **Gunter Pauli (@gunterpauli):** Economia Azul / ZERI, cascata de resíduos em matéria-prima, física antes da química e abundância local.
-37. **Helena Norberg-Hodge (@norberghodge):** Localização econômica, mercados comunitários de proximidade e redes agroecológicas (CSA).
-38. **Allan Savory (@savory):** Manejo holístico de pastagens, mimetismo de manadas de herbívoros e reversão de desertificação.
-39. **Sadhguru / Jaggi Vasudev (@sadhguru):** Regeneração biológica do solo (3% a 6% de matéria orgânica - *Save Soil*) e cinturões ciliares de 1 km (*Rally for Rivers*).
-40. **Dra. Wangari Maathai (@wangarimaathai):** Reflorestamento comunitário massivo (*Green Belt Movement*), empoderamento cívico e restauração de bacias.
-41. **João Paulo Pacífico (@pacifico):** Finanças regenerativas, securitização verde (CRAs sustentáveis), ativismo corporativo e *steward-ownership*.
-
----
-
 ## 🔬 Os 13 Núcleos Temáticos Integrados
 
 O Instituto estrutura sua atuação técnica e institucional em 13 eixos sinérgicos:
@@ -90,20 +42,6 @@ O Instituto estrutura sua atuação técnica e institucional em 13 eixos sinérg
 | ⚖️ | **11. Jurídico e Ativismo (FOCCA)** | Ações Civis Públicas (Lei 7.347/85), Notícias de Fato ao Ministério Público, compliance MROSC e defesa pericial dos polinizadores (*Advogado das Abelhas*). |
 | 📚 | **12. Biblioteca e Museu Ambiental** | Acervo científico, histórico, audiovisual e pedagógico sobre a biodiversidade da Serra da Mantiqueira e Vale do Sapucaí. |
 | ♻️ | **13. Resíduos Sólidos** | Economia circular, logística reversa e fortalecimento estrutural de cooperativas de catadores (*Projeto Recicla Vidas*). |
-
----
-
-## 💻 Ecossistema Tecnológico, Software Livre & Automação
-
-No GitHub da organização, mantemos soluções carrier grade orientadas à preservação da biosfera, à transparência do Terceiro Setor e à cooperação técnica:
-
-- 🐝 **Plataforma Web Poliniza.aí (`hub/`):** Aplicação FastAPI de alta performance para cadastro de voluntários, gestão e assinatura de termos formais de voluntariado (**Lei nº 9.608/1998**), gestão de doações, telemetria de colmeias e integração contínua com tarefas do GitHub Projects v2.
-- 📋 **Sincronizador Bidirecional GitHub Projects v2 (`scripts/sync_projetos.py`):** Motor em Python com suporte a CLI que sincroniza 100% das 151 issues cadastradas no [GitHub Projects #1 (Projetos)](https://github.com/orgs/Instituto-Fernando-Bonillo/projects/1) com arquivos Markdown locais distribuídos por iniciativas.
-- 🎙️ **IFB Audio-to-Markdown Converter (`tools/audio-converter/`):** Transcritor de alta precisão via **Faster-Whisper (CTranslate2)** para áudios e mensagens de voz do WhatsApp (`.ogg`, `.opus`, `.m4a`), com diretriz mandante de **transliteração integral e literal (sem resumos)**, timestamps e modo de monitoramento contínuo (`--watch`).
-- 📄 **IFB PDF-to-Markdown Converter & Forensic Prompt Guard (`tools/pdf-converter/`):** Motor em **PHP 8.1+ Carrier Grade** com OCR híbrido (RapidOCR via ONNX / Tesseract) e auditoria forense em 5 camadas contra ataques adversários de IA (esteganografia Unicode no Plano 14, caracteres de largura zero e renderização invisível).
-- 🔄 **Motor Tripartite de Integridade Cognitiva (`scripts/sync_agent_rules.py`):** Sincronizador automático garantindo paridade criptográfica estrita entre as diretrizes de IA do ecossistema:
-  $$\text{AGENTS.md} \equiv \text{CLAUDE.md} \equiv \text{GEMINI.md} \quad (\text{Hash SHA-256 Idêntico})$$
-- 🐝 **Vanguarda em Permameliponicultura (`scripts/permameliponicultura.py`):** Metodologia ecológica convergindo Oscar Perone e David Holmgren para Abelhas Nativas Sem Ferrão (ASF), com ninhos intocáveis, caixas Perone-INPA com Grade Divisória de madeira, inércia passiva de 3,5 a 5,0 cm, banimento de plásticos internos e telemetria biossensorial microclimática via IoT (ESP32/HX711).
 
 ---
 
